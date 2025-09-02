@@ -6,6 +6,19 @@ Ausadhi AI is a mobile application designed to help users quickly and easily ide
 
 The initial motivation for this project was to address the common problem of not having immediate access to information about a particular medicine. This application allows a user to simply take a photo of the medicine's packaging, and the app will provide details about its uses, side effects, and more. This can be particularly helpful for people who have difficulty reading small print or for those who want to quickly verify information about a drug.
 
+## About This Project
+
+This project is a final year project for the 8th semester by a team of six students from MBCOE.
+
+### Team
+
+*   Saugat Dhungana
+*   Anup Ghimire
+*   Anil Tajpuriya
+*   Suman Basnet
+*   Ujwal Nembang
+*   Nikesh Dhakal
+
 ## Features
 
 *   **Medicine Identification from Image:** Snap a photo of a medicine's box or label, and the app will identify the drug and provide detailed information.
