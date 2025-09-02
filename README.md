@@ -53,3 +53,11 @@ The server is a Python application built with the FastAPI framework. It handles 
     ├── webscraper/ # Scripts for scraping drug data
     └── Dataset/    # Medicine datasets
 ```
+
+## Screenshots
+
+<p align="center">
+  <img src="assets/app-screenshot-1.jpeg" width="250" />
+  <img src="assets/app-screenshot-2.jpeg" width="250" />
+  <img src="assets/app-screenshot-3.jpeg" width="250" />
+</p>
