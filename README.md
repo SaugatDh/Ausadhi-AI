@@ -54,6 +54,52 @@ The server is a Python application built with the FastAPI framework. It handles 
     └── Dataset/    # Medicine datasets
 ```
 
+## Getting Started
+
+To get a local copy up and running, follow these simple steps.
+
+### Prerequisites
+
+*   Node.js and npm
+*   Python 3.8+ and pip
+*   Expo CLI
+
+### Installation
+
+1.  **Clone the repo**
+    ```sh
+    git clone https://github.com/SaugatDh/Ausadhi-AI.git
+    ```
+2.  **Install client dependencies**
+    ```sh
+    cd client
+    npm install
+    ```
+3.  **Create a `.env` file in the `client` directory**
+    ```sh
+    cp .env.example .env
+    ```
+    You can then edit the `.env` file to change the `SERVER_ADDRESS` if needed.
+4.  **Install server dependencies**
+    ```sh
+    cd ../Server
+    pip install -r requirements.txt
+    ```
+
+### Running the application
+
+1.  **Start the server**
+    ```sh
+    cd Server
+    uvicorn main:app --reload
+    ```
+2.  **Start the client**
+    In a new terminal:
+    ```sh
+    cd client
+    npm start
+    ```
+
 ## Screenshots
 
 <p align="center">
